@@ -2,6 +2,14 @@
 
 フォルクスハレ引っ越し用リポジトリ
 
-7/29　作成
+7/29作成
 
-    　firstディレクトリ作成(1番)
+firstディレクトリ作成(1番)
+
+Tag,Scoreテキストファイル作成
+
+bet100.mcfunction
+
+bet1000.mcfunction
+
+bet_leave.mcfunctionを作成
