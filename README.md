@@ -8,6 +8,8 @@ firstディレクトリ作成(1番)
 
 Tag,Scoreテキストファイル作成
 
+info.mcfunction
+
 bet100.mcfunction
 
 bet1000.mcfunction
