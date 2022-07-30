@@ -7,3 +7,6 @@
 
 #scores
 pvp_bet
+
+#bossbars
+volkshalle:timer
