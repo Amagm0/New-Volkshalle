@@ -1,7 +1,7 @@
 #tags
 [pvp_join_bet100],[pvp_join_bet1000]
-[pvp_wait100_1],[pvp_wait100_2]
-[pvp_wait1000_1],[pvp_wait1000_2]
+[pvp_wait100] /*1タグにまとめた*/
+[pvp_wait1000] /*1タグにまとめた*/
 [pvp_now]
 [pvp_fight1],[pvp_fight2]/*1番では未使用*/
 
