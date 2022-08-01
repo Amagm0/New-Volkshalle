@@ -5,5 +5,16 @@
 [pvp_now]
 [pvp_fight1],[pvp_fight2]/*1番では未使用*/
 
+
 #scores
 pvp_bet
+volk.timer_sec
+volk.timer_min
+volk.num
+
+
+#bossbars
+
+
+#teams
+volk.surveillance
