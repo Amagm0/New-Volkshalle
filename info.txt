@@ -11,3 +11,6 @@ info.txtを追加
 Tags[pvp_wait100_1],[pvp_wait100_2],[pvp_wait1000_1],[pvp_wait1000_2]を削除
 Tags[pvp_wait100],[pvp_wait1000]を追加
 bet100.mcfunction bet1000.mcfunction bet_leave.mcfunctionの内容を一部変更
+
+8/1修正
+新たに12ファイル追加
