@@ -13,4 +13,20 @@ Tags[pvp_wait100],[pvp_wait1000]を追加
 bet100.mcfunction bet1000.mcfunction bet_leave.mcfunctionの内容を一部変更
 
 8/1修正
+1ファイルの名前変更
+volk/functions/info.mcfunction
+　　　　　　　↓
+volk/functions/install.mcfunction
 新たに12ファイル追加
+data/minecraft/tags/functions/load.json
+data/volk/advancements/entered_world.json
+data/volk/functions/tick.mcfunction
+data/volk/functions/match_ready/bet100.mcfunction
+data/volk/functions/match_ready/bet1000.mcfunction
+data/volk/functions/match_ready/timer_start.mcfunction
+data/volk/functions/match_ready/countdown/0.mcfunction
+data/volk/functions/match_ready/countdown/1.mcfunction
+data/volk/functions/match_ready/countdown/2.mcfunction
+data/volk/functions/match_ready/countdown/3.mcfunction
+data/volk/functions/match_ready/countdown/countdown.mcfunction
+data/volk/functions/match_ready/countdown/start.mcfunction
