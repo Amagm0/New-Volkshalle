@@ -5,5 +5,4 @@ tag @s[tag=!pvp_join_bet100,tag=!pvp_join_bet1000] add pvp_join_bet100
 scoreboard players set @s pvp_bet 100
 tellraw @s ["100coin賭けのPvPを選択しました!"]
 
-#試合中でなけれsecondへ
-#まだ不明
+#試合中でなければsecondへ
