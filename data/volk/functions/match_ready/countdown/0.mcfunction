@@ -17,3 +17,7 @@ function volk:match_ready/timer_start
 
 #カウントダウン終了後処理
 bossbar remove volk:countdown
+
+#function実行
+execute if entity @e[team=volk.surveillance,tag=pvp_join_bet100] run function volk:match_start/bet100
+execute if entity @e[team=volk.surveillance,tag=pvp_join_bet1000] run function volk:match_start/bet1000
