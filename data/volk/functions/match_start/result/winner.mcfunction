@@ -5,7 +5,9 @@ tag @e[team=volk.surveillance] add pvp_winner
 #tp @a[team=volk.surveillance] x y z
 
 #表示
-tellraw @a ["",{"selector":"@e[tag=pvp_winner]"},{"text":"の勝利!!"}]
+title @a[team=volk.surbeillance] title ["",{"text":"Winner : ","color":"gold"},{"selector":"@a[tag=pvp_winner]"}]
+tellraw @a[team=volk.surbeillance] ["",{"selector":"@a[tag=pvp_winner]"},{"text":"の勝利!!"}]
+execute as @a[team=volk.surbeillance] at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~ 1 0.5 1 
 
 #全てのタグなどを削除
 tag @a[tag=pvp_winner] remove pvp_winner
