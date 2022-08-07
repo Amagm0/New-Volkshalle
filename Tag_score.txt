@@ -3,7 +3,7 @@
 [pvp_wait100] /*1タグにまとめた*/
 [pvp_wait1000] /*1タグにまとめた*/
 [pvp_now]
-[pvp_fight1],[pvp_fight2]/*1番では未使用*/
+[pvp_fight1],[pvp_fight2]
 
 
 #scores
