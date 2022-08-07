@@ -14,7 +14,6 @@ volk.num  Name:[#volk.gamenow, #volk.timer_sec, #volk.countdown]
 
 
 #bossbars
-volkshalle:timer
 volk:countdown
 volk:timer
 
