@@ -10,7 +10,7 @@
 pvp_bet
 volk.timer_sec
 volk.timer_min
-volk.num  Name:[#volk.gamenow, #volk.timer_sec, #volk.countdown]
+volk.num  Name:[#volk.gamenow, #volk.timer_sec, #volk.countdown, #volk.bet100_player, #volk.bet1000_player]
 
 
 #bossbars
