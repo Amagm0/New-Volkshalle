@@ -34,3 +34,9 @@ data/volk/functions/match_ready/countdown/start.mcfunction
 8/7修正
 新たに複数のカテゴリ・ファイルを追加
 完成
+
+
+予定
+・データパック軽量化
+・拡張をしやすくするためにコマンドの一部を刷新する
+・拡張専用データパックの作成
