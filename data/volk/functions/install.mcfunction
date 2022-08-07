@@ -12,5 +12,3 @@ scoreboard objectives add volk.num dummy
 #タグ作成
 
 #ボスバー作成
-#もえかす writed
-bossbar add volkshalle:timer "timer"
