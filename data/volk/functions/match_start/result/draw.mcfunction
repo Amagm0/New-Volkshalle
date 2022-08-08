@@ -9,7 +9,7 @@ execute as @a[team=volk.surveillance] at @s run playsound minecraft:entity.withe
 #全てのタグなどを削除
 tag @a[tag=pvp_fight1] remove pvp_fight1
 tag @a[tag=pvp_fight2] remove pvp_fight2
-team leave @a[team=volk.surveillance] volk.surveillance
+team remove volk.surveillance
 
 #リセットをかける
 scoreboard players set #volk.gamenow volk.num 0
