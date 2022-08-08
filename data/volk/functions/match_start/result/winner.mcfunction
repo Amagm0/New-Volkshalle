@@ -12,6 +12,7 @@ execute as @a[team=volk.surveillance] at @s run playsound minecraft:entity.playe
 #全てのタグなどを削除
 execute as @a[team=volk.surveillance,tag=pvp_winner] if score @s pvp_bet matches 100 run scoreboard players add @s casino 200
 execute as @a[team=volk.surveillance,tag=pvp_winner] if score @s pvp_bet matches 1000 run scoreboard players add @s casino 2000
+scoreboard players set @a[team=volk.surveillance] pvp_bet 0
 tag @a[tag=pvp_winner] remove pvp_winner
 tag @a[tag=pvp_fight1] remove pvp_fight1
 tag @a[tag=pvp_fight2] remove pvp_fight2
