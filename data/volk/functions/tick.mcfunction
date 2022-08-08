@@ -8,7 +8,7 @@ execute if score #volk.gamenow volk.num matches 0 if score #volk.bet1000_player 
 
 #あまぐも writed
 #フォルクスハレ試合中
-execute if score #volk.gamenow volk.num matches 1 run funciton volk:match_start/tick
+execute if score #volk.gamenow volk.num matches 1 run function volk:match_start/tick
 #試合以外での処理
 execute if score #volk.gamenow volk.num matches 0 run function volk:remove
 
