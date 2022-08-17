@@ -40,3 +40,4 @@ data/volk/functions/match_ready/countdown/start.mcfunction
 ・データパック軽量化
 ・拡張をしやすくするためにコマンドの一部を刷新する
 ・拡張専用データパックの作成
+・チーム戦の追加
